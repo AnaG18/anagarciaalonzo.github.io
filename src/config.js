@@ -1,34 +1,30 @@
 module.exports = {
-  siteTitle: 'Yashita Namdeo',
+  siteTitle: 'Ana Paola Garcia Alonzo',
   siteDescription:
-    'Yashita Namdeo is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'Ana Paola Garcia Alonzo is almost a biomedical engineering trying to learn about machine learning',
   siteKeywords:
-    'Yashita Namdeo, Yashita, Namdeo, yashitanamdeo, software engineer, web developer, javascript, python, java, svvv, indore',
-  siteUrl: 'https://yashitanamdeo.github.io/',
+    'Ana Garcia, Ana, biomedical engineering, programming, machine learning, neuroscience, biomechanics',
+  siteUrl: 'https://anagarciaalonzo.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Yashita Namdeo',
-  location: 'Indore, India',
-  email: 'yashita.namdeo2000@gmail.com',
-  github: 'https://github.com/yashitanamdeo',
+  name: 'Ana Garcia Alonzo',
+  location: 'Mexico',
+  email: 'apaola.005@gmail.com',
+  github: 'https://github.com/AnaG18',
   twitterHandle: '@',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/yashitanamdeo',
+      url: 'https://github.com/AnaG18',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/yashitanamdeo/',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/yashitanamdeo',
+      url: 'https://www.linkedin.com/in/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/yashitanamdeo',
+      url: 'https://www.instagram.com/',
     },
     {
       name: 'Twitter',
