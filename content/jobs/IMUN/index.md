@@ -1,13 +1,13 @@
 ---
-date: '2021-06-11'
-title: 'Campus Ambassador Intern'
-company: 'International MUN (IMUN)'
-location: remote
-range: 'June 2021 - July 2021'
-url: 'https://www.internationalmun.org/'
+date: '2023-07-31'
+title: 'Research Intern'
+company: 'MITACS Globalink Program'
+location: in person
+range: 'July 2023 - October 2023'
+url: 'https://www.mitacs.ca/en/programs/globalink'
 ---
 
-- Promoted IMUN Online Conferences in different schools/universities and got 10+ registrations.
-- Informed how MUNs enhance - Negotiation, Diplomacy, Leadership, etc.
-- Achieved Brand Ambassador title for increasing the sales of the organization by 10% and creating brand presence.
-- View [OFFER LETTER](https://drive.google.com/file/d/1q-rr54_-9znx-m1PvEDTYkbu5yGy0miK/view?usp=sharing)
+- Immersed into 12 weeks of research at the [Neuromuscular Control and Biomechanics Lab](https://www.ncbl.ualberta.ca/)
+- Collected and pre-processed +14 datasets containing IMU readouts for different activities
+- Explored the feasibility of using IMU data in deep learning models for specific biomechanical task detection. 
+- Applications open a year prior from August to September! (Must have 1 to 3 semesters left in your undergrad degree)  [Check the offer](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship/globalink-research-internship-2018-eligible)
