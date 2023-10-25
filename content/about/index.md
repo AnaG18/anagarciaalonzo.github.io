@@ -1,13 +1,13 @@
 ---
 title: 'About Me'
-avatar: 'me.jpg'
+avatar: 'me.JPG'
 skills:
-  - Coding
+  - Singing
   - Reading
   - Painting
   - Crafting
   - Problem Solving
-  - Team Management
+  - Mural hunting
   - Mentoring
 ---
 
